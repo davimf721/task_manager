@@ -17,6 +17,8 @@
  ### baixe o programa:
  para baixar o programa vá em https://github.com/davimf721/task_manager/releases/tag/1.0.0 e baixe o arquivo `.py`.
 
+ - faça: `pip install setuptools`, `pip install psutil` depois `pip install windows-curses` e `pip install gputil`
+
 ### rodando o programa:
 
 ```bash
